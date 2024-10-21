@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "539314474969",
+    "project_id": "kngro-de758",
+    "storage_bucket": "kngro-de758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539314474969:android:4590c1b0d65c0d9132d3c8",
+        "android_client_info": {
+          "package_name": "com.kngro.wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539314474969-0roh37o1rsv7g7ogndetu651d30ln6ko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kngro.wallet",
+            "certificate_hash": "96f7e554e6f7256485ab0543ad1ba3eeb9f60ce1"
+          }
+        },
+        {
+          "client_id": "539314474969-jdto6r7av1gdbr9tn57p09mfb5mg4ld2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ZoNp-LK3f0je0gfi7EMud6J-dsanEjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539314474969-jdto6r7av1gdbr9tn57p09mfb5mg4ld2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "539314474969-chohdej3edqsq680uapm10t7rma2ctn5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kngro.wallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

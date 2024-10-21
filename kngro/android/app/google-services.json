@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539314474969",
+    "project_id": "kngro-de758",
+    "storage_bucket": "kngro-de758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539314474969:android:e027190d3937e51632d3c8",
+        "android_client_info": {
+          "package_name": "network.mining.kngro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ZoNp-LK3f0je0gfi7EMud6J-dsanEjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
